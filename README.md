@@ -1,9 +1,9 @@
 # To-Do_List
 
 ## Description
-This is the first version of a to-do list I made to learn Html, Css and Javascript.
+This is the second version of a to-do list I made to learn Html, Css and Javascript.
 
-This version does not contain any FormData usage to learn how to master several ways of making a to-do list.
+This version aims to use FormData to manage the task creation.
 
 ## Features
 The To-Do List allows you to :
@@ -12,7 +12,7 @@ The To-Do List allows you to :
 - You can remove each task with "Backspace" or "Delete" when it's selected, or by double-clicking.
 
 ## Version control
-For a full list of the different versions I did to this to-do list, please see the tags section.
+For a full list of the different versions I did to this to-do list, please see the [tags](https://github.com/Vanesscript/To-Do_List/tags) section.
 
 ## Installation
 1. Clone the repository.
